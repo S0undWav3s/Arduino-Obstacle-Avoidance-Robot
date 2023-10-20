@@ -16,12 +16,12 @@ Using HC-SR04 Arduino module to measure distance and move away from the obstacle
 <br/>
 
 <br>
-<center><b>STL FILES: https://www.thingiverse.com/thing:6268050</b></center>
+<center><b>Link to STL FILES: https://www.thingiverse.com/thing:6268050</b></center>
 <br/>
 
-
+<br>
 <b>Arduino Code:</b>
-
+<br/>
 ```C
 #include <Servo.h>  //servo library included
 int ServoPin = 2;   //servo Pin declared
