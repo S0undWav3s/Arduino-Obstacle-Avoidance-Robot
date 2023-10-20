@@ -9,6 +9,7 @@ Using HC-SR04 Arduino module to measure distance and move away from the obstacle
 <br>
 <img src="https://github.com/S0undWav3s/Arduino-Obstacle-Avoidance-Robot/blob/main/Media/picture_01.jpg" width=360 HEIGHT=540> 
 <img src="https://github.com/S0undWav3s/Arduino-Obstacle-Avoidance-Robot/blob/main/Media/picture_02.jpg" width=360 HEIGHT=540>
+<img src="https://github.com/S0undWav3s/Arduino-Obstacle-Avoidance-Robot/blob/main/Media/Schematic.jpg" width=360 HEIGHT=540>
 <br/>
 
 <b>Arduino Code:</b>
