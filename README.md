@@ -2,7 +2,7 @@
 Using HC-SR04 Arduino module to measure distance and move away from the obstacles.
 
 <br>
-<center><b>BreadcrumbsArduino-Obstacle-Avoidance-Robot</b></center>
+<center><b>sArduino-Obstacle-Avoidance-Robot</b></center>
 <br/>
 
 
